@@ -1,0 +1,516 @@
+<simulation>
+        <width> 1600 </width>
+        <height> 900 </height>
+        <boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 97.0 </x>
+          <y> 65.0 </y>
+        </position>
+        <velocity>
+          <x> -0.648118629528358 </x>
+          <y> 0.7615393896958206 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 142.0 </x>
+          <y> 66.0 </y>
+        </position>
+        <velocity>
+          <x> -0.5626240433067091 </x>
+          <y> -0.8267128799608787 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 230.0 </x>
+          <y> 73.0 </y>
+        </position>
+        <velocity>
+          <x> 0.726293399809769 </x>
+          <y> -0.68738482481996 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 294.0 </x>
+          <y> 70.0 </y>
+        </position>
+        <velocity>
+          <x> 0.8212574455941333 </x>
+          <y> -0.5705578043075032 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 414.0 </x>
+          <y> 79.0 </y>
+        </position>
+        <velocity>
+          <x> 0.21316707521672557 </x>
+          <y> -0.9770157614099922 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 531.0 </x>
+          <y> 80.0 </y>
+        </position>
+        <velocity>
+          <x> 0.7508929588948037 </x>
+          <y> 0.6604239277026587 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 641.0 </x>
+          <y> 82.0 </y>
+        </position>
+        <velocity>
+          <x> -0.22788446737788648 </x>
+          <y> -0.973688178796424 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 762.0 </x>
+          <y> 89.0 </y>
+        </position>
+        <velocity>
+          <x> 0.6294217415694667 </x>
+          <y> -0.7770638784808231 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 856.0 </x>
+          <y> 84.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9976303284229829 </x>
+          <y> 0.06880209161537813 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 941.0 </x>
+          <y> 75.0 </y>
+        </position>
+        <velocity>
+          <x> -0.46574643283262235 </x>
+          <y> 0.8849182223819824 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1050.0 </x>
+          <y> 65.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9972387313104426 </x>
+          <y> 0.07426245871460745 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1130.0 </x>
+          <y> 60.0 </y>
+        </position>
+        <velocity>
+          <x> 0.0 </x>
+          <y> 1.0 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1234.0 </x>
+          <y> 58.0 </y>
+        </position>
+        <velocity>
+          <x> 0.5603093677042104 </x>
+          <y> -0.828283413127963 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1316.0 </x>
+          <y> 57.0 </y>
+        </position>
+        <velocity>
+          <x> -0.9138115486202572 </x>
+          <y> 0.40613846605344767 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1394.0 </x>
+          <y> 58.0 </y>
+        </position>
+        <velocity>
+          <x> -0.4746894493767828 </x>
+          <y> 0.8801533540527848 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1479.0 </x>
+          <y> 56.0 </y>
+        </position>
+        <velocity>
+          <x> 0.40081883401970775 </x>
+          <y> -0.9161573349021892 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1473.0 </x>
+          <y> 137.0 </y>
+        </position>
+        <velocity>
+          <x> -0.6301688882006727 </x>
+          <y> -0.7764580943901145 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1393.0 </x>
+          <y> 150.0 </y>
+        </position>
+        <velocity>
+          <x> 0.5967027663445608 </x>
+          <y> 0.8024623409461334 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1350.0 </x>
+          <y> 145.0 </y>
+        </position>
+        <velocity>
+          <x> -0.9875297847602427 </x>
+          <y> -0.15743228452699523 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1224.0 </x>
+          <y> 149.0 </y>
+        </position>
+        <velocity>
+          <x> 0.6 </x>
+          <y> -0.8 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1158.0 </x>
+          <y> 161.0 </y>
+        </position>
+        <velocity>
+          <x> -0.9150861860659874 </x>
+          <y> -0.4032583192833165 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1062.0 </x>
+          <y> 178.0 </y>
+        </position>
+        <velocity>
+          <x> -0.8131547222035438 </x>
+          <y> 0.5820475906299051 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 969.0 </x>
+          <y> 175.0 </y>
+        </position>
+        <velocity>
+          <x> 0.8637789008984335 </x>
+          <y> 0.5038710255240861 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 897.0 </x>
+          <y> 178.0 </y>
+        </position>
+        <velocity>
+          <x> 0.6978647269104287 </x>
+          <y> -0.7162295881449137 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 791.0 </x>
+          <y> 179.0 </y>
+        </position>
+        <velocity>
+          <x> -0.5240974256643347 </x>
+          <y> 0.851658316704544 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 721.0 </x>
+          <y> 184.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9852117548196745 </x>
+          <y> 0.17134117475124774 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 635.0 </x>
+          <y> 189.0 </y>
+        </position>
+        <velocity>
+          <x> -0.8700221858486124 </x>
+          <y> 0.4930125719808804 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 548.0 </x>
+          <y> 183.0 </y>
+        </position>
+        <velocity>
+          <x> 0.8586216119022894 </x>
+          <y> 0.5126099175536055 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 468.0 </x>
+          <y> 180.0 </y>
+        </position>
+        <velocity>
+          <x> -0.40794006219005097 </x>
+          <y> 0.9130087106158283 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 383.0 </x>
+          <y> 192.0 </y>
+        </position>
+        <velocity>
+          <x> -0.3338471422445943 </x>
+          <y> -0.9426272251612073 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 300.0 </x>
+          <y> 188.0 </y>
+        </position>
+        <velocity>
+          <x> 0.11622816949504457 </x>
+          <y> -0.9932225393212899 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 240.0 </x>
+          <y> 186.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9666204422334295 </x>
+          <y> 0.2562126473389813 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 176.0 </x>
+          <y> 184.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9284766908852592 </x>
+          <y> -0.3713906763541037 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 122.0 </x>
+          <y> 174.0 </y>
+        </position>
+        <velocity>
+          <x> -0.7576086904616802 </x>
+          <y> 0.6527090256285245 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 82.0 </x>
+          <y> 271.0 </y>
+        </position>
+        <velocity>
+          <x> -0.6014352964315569 </x>
+          <y> -0.7989215131702772 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 136.0 </x>
+          <y> 289.0 </y>
+        </position>
+        <velocity>
+          <x> -0.7317215709199387 </x>
+          <y> 0.6816036551035046 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 199.0 </x>
+          <y> 298.0 </y>
+        </position>
+        <velocity>
+          <x> 0.1309383692545355 </x>
+          <y> 0.9913905100700545 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 275.0 </x>
+          <y> 304.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9770631709266144 </x>
+          <y> -0.2129496654583647 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 348.0 </x>
+          <y> 311.0 </y>
+        </position>
+        <velocity>
+          <x> -0.22788446737788648 </x>
+          <y> -0.973688178796424 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 433.0 </x>
+          <y> 313.0 </y>
+        </position>
+        <velocity>
+          <x> -0.12403473458920845 </x>
+          <y> -0.9922778767136676 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 514.0 </x>
+          <y> 307.0 </y>
+        </position>
+        <velocity>
+          <x> -0.16939121559933262 </x>
+          <y> -0.9855488907597534 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 616.0 </x>
+          <y> 311.0 </y>
+        </position>
+        <velocity>
+          <x> 0.9578262852211514 </x>
+          <y> -0.2873478855663454 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 709.0 </x>
+          <y> 316.0 </y>
+        </position>
+        <velocity>
+          <x> -0.996815278536125 </x>
+          <y> -0.07974522228289 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 793.0 </x>
+          <y> 312.0 </y>
+        </position>
+        <velocity>
+          <x> -0.7893522173763262 </x>
+          <y> 0.6139406135149204 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 901.0 </x>
+          <y> 305.0 </y>
+        </position>
+        <velocity>
+          <x> -0.9997166737441363 </x>
+          <y> 0.02380277794628896 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1039.0 </x>
+          <y> 309.0 </y>
+        </position>
+        <velocity>
+          <x> 0.756168682462777 </x>
+          <y> 0.6543767444389417 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1140.0 </x>
+          <y> 310.0 </y>
+        </position>
+        <velocity>
+          <x> -0.3001052849905593 </x>
+          <y> -0.9539060844342776 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1221.0 </x>
+          <y> 304.0 </y>
+        </position>
+        <velocity>
+          <x> -0.9447566119176314 </x>
+          <y> 0.32777270209387216 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1330.0 </x>
+          <y> 297.0 </y>
+        </position>
+        <velocity>
+          <x> 0.4327310675847713 </x>
+          <y> -0.9015230574682735 </y>
+        </velocity>
+      </boid><boid>
+        <type> FollowingBoid </type>
+        <position>
+          <x> 1454.0 </x>
+          <y> 298.0 </y>
+        </position>
+        <velocity>
+          <x> 0.6993795241800348 </x>
+          <y> 0.7147505027334421 </y>
+        </velocity>
+      </boid>
+        <boid>
+        <type> LeadingBoid </type>
+        <position>
+          <x> 795.0 </x>
+          <y> 535.0 </y>
+        </position>
+        <velocity>
+          <x> -0.9371460502032696 </x>
+          <y> -0.34893735911823864 </y>
+        </velocity>
+      </boid>
+      </simulation>

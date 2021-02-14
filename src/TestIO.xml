@@ -1,0 +1,16 @@
+<simulation>
+	<width>1600</width>
+	<height>900</height>
+
+<boid>
+	<type> LeadingBoid </type>
+	<position>
+		<x> 200 </x>
+		<y> 500 </y>
+	</position>
+	<velocity>
+		<x> 10 </x>
+		<y> -20 </y>
+	</velocity>
+</boid>
+</simulation>

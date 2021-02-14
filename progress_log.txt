@@ -1,0 +1,32 @@
+10/03/2020
+Implemented the skeleton of the program.
+
+Created the MathVec class for vector operations. Implemented the stub
+methods in the Boid class for GUI testing purposes. MainUI and SimMap is
+still work-in-progress.
+
+The MathVec class is the only class which is working smoothly. The MainUI and 
+SimMap is almost working. The only problem is that the boids don't move at all.
+
+The workload is roughly 10 hours.
+
+The project is estimated to be ahead of the schedule as the GUI, the part that
+the most time-intensive, is almost completed.
+
+
+
+24/03/2020
+Program is near completion. It's almost fully usable at this point.
+
+The simulation works well despite minor twitching from the boids. It can now 
+be loaded and saved by clicking the "File" button in menu.
+
+MainUI is the only thing still in progress. Functionalities such as changing
+simulation speed or adjusting the properties of simulation will be implemented.
+
+The workload is roughly 40 hours.
+
+The project is estimated to be ahead of the schedule as there are only a few
+other minor methods to be implemented.
+
+
